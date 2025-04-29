@@ -6,8 +6,10 @@ Objectives
 3.Train multiple classification models (Logistic Regression, Random Forest, SVC, etc.).
 4.Compare model performance using classification metrics.
 5.Visualize results with graphs including a confusion matrix heatmap.
+
 How to Run the Project
-1.. Install Dependencies
+
+1 Install Dependencies
 pip install -r requirements.txt
 
 2. Download Dataset
