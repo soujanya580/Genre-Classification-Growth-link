@@ -1,0 +1,7 @@
+1.kaggle
+2.pandas
+3.numpy
+4.matplotlib
+5.seaborn
+6.nltk
+7.scikit-learn
