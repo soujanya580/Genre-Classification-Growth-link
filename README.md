@@ -1,6 +1,7 @@
 This project aims to classify movie genres based on their descriptions using Machine Learning and Natural Language Processing (NLP) techniques. The dataset used is sourced from Kaggle and includes movie titles, descriptions, and genres.
 
 Objectives
+
 1.Predict the genre of a movie using its text description.
 2.Apply NLP techniques to clean and vectorize text data.
 3.Train multiple classification models (Logistic Regression, Random Forest, SVC, etc.).
